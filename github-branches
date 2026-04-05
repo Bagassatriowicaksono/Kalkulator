@@ -1,0 +1,6 @@
+Perintah:
+git branch
+
+Output:
+* main
+  bug-fix-typo
