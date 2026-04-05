@@ -1,0 +1,12 @@
+Perintah:
+
+git checkout main
+git merge bug-fix-typo
+
+Output:
+
+Switched to branch 'main'
+Updating abc123..def456
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
