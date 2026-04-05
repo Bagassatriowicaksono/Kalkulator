@@ -1,0 +1,11 @@
+Perintah curl:
+curl https://api.github.com/repos/Bagassatriowicaksono/mcino-Introduction-to-Git-and-GitHub
+
+Output:
+{
+  "full_name": "Bagassatriowicaksono/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
